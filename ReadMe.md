@@ -15,7 +15,7 @@ The app accepts two to three arguments **IN ORDER**:
 
 1. Start Apache and MySQL
 2. Configure App Settings
-  - specify the command file and log file path
+    - specify the command file and log file path
   
 3. Create the command/input file
 4. Run the program!
