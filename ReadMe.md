@@ -11,7 +11,7 @@ The app accepts two to three arguments **IN ORDER**:
 > NOTE: The app have a default config set, if you don't provide the main arguments, it will use the default app config.
 > this might cause errors and the program would not work.
 
-> IMPORTANT: Do not forget to include your JDBC Driver for MySQL connector.
+> IMPORTANT: Do not forget to include your JDBC Driver in your project.
 
 ## Commands
 1. `A` command (Add/Create a student record)
