@@ -13,10 +13,18 @@ The app accepts two to three arguments **IN ORDER**:
 > IMPORTANT: Do not forget to include your JDBC Driver for MySQL connector.
 
 ## Commands
-1. `A` command
-2. `S` command
-3. `D` command
-4. `R` command
-5. `L` command
-6. `P` command
-7. `Q` command
+1. `A` command (Add/Create a student record)
+  ```
+  A
+  <student id>
+  <last name>
+  <first name>
+  <course>
+  <units earned/taken>
+  ```
+2. `S` command (Search student record(s))
+3. `D` command (Delete student record)
+4. `R` command (Generate Report)
+5. `L` command (list/Print all records)
+6. `P` command (Purge/Erase all records)
+7. `Q` command (Quit application)
