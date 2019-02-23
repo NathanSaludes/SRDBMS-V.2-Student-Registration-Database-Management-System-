@@ -14,7 +14,7 @@ The app accepts two to three arguments **IN ORDER**:
 > IMPORTANT: Do not forget to include your JDBC Driver in your project.
 
 ## Commands
-1. `A` command (Add/Create a student record)
+1. `A` (Add/Create a student record)
   ```
   A
   <student id>
@@ -33,19 +33,19 @@ The app accepts two to three arguments **IN ORDER**:
  
   ```
   
-2. `S` command (Search student record(s))
+2. `S` (Search student record(s))
   ```
   S
   <student id | last name | first name | course | year level>
   ```
   
-3. `D` command (Delete student record)
+3. `D` (Delete student record)
   ```
   D
   <student id>
   ```
   
-4. `R` command (Generate Report)
-5. `L` command (list/Print all records)
-6. `P` command (Purge/Erase all records)
-7. `Q` command (Quit application)
+4. `R` (Generate Report)
+5. `L` (list/Print all records)
+6. `P` (Purge/Erase all records)
+7. `Q` (Quit application)
