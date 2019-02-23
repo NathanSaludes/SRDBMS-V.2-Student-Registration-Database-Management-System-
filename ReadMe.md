@@ -21,7 +21,7 @@ The app accepts two to three arguments **IN ORDER**:
   <last name>
   <first name>
   <course>
-  <units earned/taken> (max units: 210)
+  <units earned/taken> *(max units: 210)*
   
   Sample:
   A
