@@ -20,7 +20,15 @@ The app accepts two to three arguments **IN ORDER**:
   <last name>
   <first name>
   <course>
-  <units earned/taken>
+  <units earned/taken> (max units: 210)
+  
+  A
+  2019-01023
+ Trump
+ Donald
+ SE
+ 150
+ 
   ```
 2. `S` command (Search student record(s))
 3. `D` command (Delete student record)
