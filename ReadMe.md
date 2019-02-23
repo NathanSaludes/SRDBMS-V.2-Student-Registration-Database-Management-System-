@@ -19,7 +19,7 @@ The app accepts two to three arguments **IN ORDER**:
   
 3. Create the command/input file
 4. Run the program!
-
+##
 ## Commands
 1. `A` (Add/Create a student record)
   ```
