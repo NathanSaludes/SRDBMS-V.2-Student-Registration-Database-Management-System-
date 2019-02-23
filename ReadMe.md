@@ -22,16 +22,28 @@ The app accepts two to three arguments **IN ORDER**:
   <course>
   <units earned/taken> (max units: 210)
   
+  Sample:
   A
   2019-01023
- Trump
- Donald
- SE
- 150
+  Trump
+  Donald
+  SE
+  150
  
   ```
+  
 2. `S` command (Search student record(s))
+  ```
+  S
+  <student id | last name | first name | course | year level>
+  ```
+  
 3. `D` command (Delete student record)
+  ```
+  D
+  <student id>
+  ```
+  
 4. `R` command (Generate Report)
 5. `L` command (list/Print all records)
 6. `P` command (Purge/Erase all records)
