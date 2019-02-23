@@ -12,7 +12,7 @@ The app accepts two to three arguments **IN ORDER**:
 > this might cause errors and the program would not work.
 
 > IMPORTANT: Do not forget to include your JDBC Driver in your project.
-
+hr
 1. Start Apache and MySQL
 2. Configure App Settings
     - specify the command file and log file path
