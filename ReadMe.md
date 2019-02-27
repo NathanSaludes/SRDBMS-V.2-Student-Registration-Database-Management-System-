@@ -14,11 +14,11 @@ The app accepts two to three arguments **IN ORDER**:
 > IMPORTANT: Do not forget to include your JDBC Driver in your project.
 ##
 1. Start Apache and MySQL
-2. Configure App Settings
+2. Create the command/input file and log file
+3. Configure App/Program Settings
     - specify the command file and log file path
-  
-3. Create the command/input file
 4. Run the program!
+
 ##
 ## Commands
 1. `A` (Add/Create a student record)
